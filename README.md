@@ -8,4 +8,5 @@
 <img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/hiveos-2.png" width="800">
 <img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/hiveos-3.png" width="800">
 <img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/hiveos-4.png" width="800">
-Мой телеграм @cross964008, Email: 999cross999@gmail.com
+<img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/hiveos-5.png" width="800">
+Telegram @cross964008, Email: 999cross999@gmail.com
