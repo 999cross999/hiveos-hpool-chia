@@ -7,6 +7,7 @@
 <img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/hiveos-1.png" width="800">
 <img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/hiveos-2.png" width="800">
 <img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/hiveos-3.png" width="800">
+<h4>Если вы используете xproxy, добавьте (proxy: адрес xproxy) в Extra config arguments</h4>
 <img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/hiveos-4.png" width="800">
 <img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/hiveos-5.png" width="800">
 Telegram @cross964008, Email: 999cross999@gmail.com
