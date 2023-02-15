@@ -18,7 +18,7 @@
 <p><b>HPOOL CHIA PP: (cn = China, na = Americas, eu = Europe, me = Middle East)</b></p>
 <h4>If you are using X-Proxy, add the following line to the "Extra config arguments":</h4>
 <code> proxy: http://localhost:9190/ </code>
-<h4>Replace localhost with the ip address of your xproxy server!</h4>
+<h4>Replace localhost with the ip address of your server X-Proxy!</h4>
 <h2>Enjoy mining CHIA on HiveOS! </h2>
 <h3>For any questions / bugs, write to me. My contacts:</h3>
 <h3>Telegram @cross964008, Email: 999cross999@gmail.com</h3>
