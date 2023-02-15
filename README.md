@@ -1,4 +1,3 @@
-# hiveos-hpool-chia
 <h2>Miner HPOOL CHIA OG/PP for HiveOS</h2>
 <h6> HPOOL CHIA OG: https://github.com/999cross999/hiveos-hpool-chia/blob/main/hpool-chia-og-1.6.0_beta.tar.gz</h6>
 <h6> HPOOL CHIA PP: https://github.com/999cross999/hiveos-hpool-chia/blob/main/hpool-chia-pp-1.5.3_beta.tar.gz</h6>
