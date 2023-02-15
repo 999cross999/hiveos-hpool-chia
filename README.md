@@ -1,4 +1,4 @@
-<h1><img src="https://ok12static.oktacdn.com/fs/bco/1/fs0w9b1ctg3vgmK2n5d6" width="150"> HPOOL miner for HiveOS<img src="!https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ757CjA-Zt6ltQK4gp-Abbm3-j3-Mw3xQZkA&usqp=CAU" width="150"></h1>
+<h3><img src="https://ok12static.oktacdn.com/fs/bco/1/fs0w9b1ctg3vgmK2n5d6" width="120"> HPOOL miner for HiveOS<img src="!https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ757CjA-Zt6ltQK4gp-Abbm3-j3-Mw3xQZkA&usqp=CAU" width="150"></h3>
 <img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/screenshot-hive-5.png" width="710">
 <h4>HDD must be NTFS file system and named CHIAOG*** or CHIAPP***</h4>
 <h4>Instead of *** there should be a disk number, for example: CHIAOG001, CHIAOG002 or CHIAPP001, CHIAPP002</h4>
