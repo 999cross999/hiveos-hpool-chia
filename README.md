@@ -12,6 +12,7 @@
 <img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/screenshot-hive-3.png" width="710">
 <h4>4. In the Setup Miner Config menu, specify the settings as in the screenshot </h4>
 <img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/screenshot-hive-4.png" width="710">
+<h4>You can select the hpool server in the pool URL line (cn - China, hk - Hongkong, jp - Japan)</h4>
 <h4>If you are using xproxy, add the following line to the additional configuration arguments</h4>
 <code> proxy: http://localhost:9190/ </code>
 <h4>Replace localhost with the ip address of your xproxy server!</h4>
