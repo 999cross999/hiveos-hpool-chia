@@ -13,8 +13,8 @@
 <img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/screenshot-hive-4.png">
 <p><b> HPOOL CHIA OG: </b>https://github.com/999cross999/hiveos-hpool-chia/releases/download/v1.0/hpool-chia-og-1.6.0_beta.tar.gz</p>
 <p><b> HPOOL CHIA PP: </b>https://github.com/999cross999/hiveos-hpool-chia/releases/download/v1.0/hpool-chia-pp-1.5.3_beta.tar.gz</p>
-<h4>You can select the hpool server in the pool URL line (cn - China, hk - Hongkong, jp - Japan)</h4>
-<h4>If you are using xproxy, add the following line to the additional configuration arguments:</h4>
+<h4>You can select the hpool server in the "pool URL" line (cn - China, hk - Hongkong, jp - Japan)</h4>
+<h4>If you are using xproxy, add the following line to the "Extra configuration arguments":</h4>
 <code> proxy: http://localhost:9190/ </code>
 <h4>Replace localhost with the ip address of your xproxy server!</h4>
 <h2>Enjoy mining CHIA on HiveOS! </h2>
