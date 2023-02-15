@@ -16,7 +16,7 @@
 <h4>You can select the hpool server in the "pool URL" line:</h4>
 <p><b>HPOOL CHIA OG: (cn = China, hk = Hongkong, jp = Japan)</b></p>
 <p><b>HPOOL CHIA PP: (cn = China, na = Americas, eu = Europe, me = Middle East)</b></p>
-<h4>If you are using xproxy, add the following line to the "Extra config arguments":</h4>
+<h4>If you are using X-Proxy, add the following line to the "Extra config arguments":</h4>
 <code> proxy: http://localhost:9190/ </code>
 <h4>Replace localhost with the ip address of your xproxy server!</h4>
 <h2>Enjoy mining CHIA on HiveOS! </h2>
