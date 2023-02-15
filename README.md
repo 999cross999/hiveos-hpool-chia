@@ -1,4 +1,4 @@
-<h2>Miner HPOOL CHIA OG/PP for HiveOS</h2>
+<h1 style="color:#1f457d">HPOOL <img src="https://ok12static.oktacdn.com/fs/bco/1/fs0w9b1ctg3vgmK2n5d6" width="120"> OG/PP for HiveOS</h1>
 <h6> HPOOL CHIA OG: https://github.com/999cross999/hiveos-hpool-chia/blob/main/hpool-chia-og-1.6.0_beta.tar.gz</h6>
 <h6> HPOOL CHIA PP: https://github.com/999cross999/hiveos-hpool-chia/blob/main/hpool-chia-pp-1.5.3_beta.tar.gz</h6>
 <h4>Drives must be NTFS file system and named CHIAOG*** or CHIAPP***</h4>
