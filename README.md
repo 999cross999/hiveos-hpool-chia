@@ -39,10 +39,13 @@
 <h4>"Address line" example: APIKEYOG.APIKEYPP</h4>
 <h4>"pool URL" example: jp.eu</h4>
 <img src="https://github.com/999cross999/hiveos-hpool-chia/blob/main/pictures/screenshot-6.png">
-<h2>Enjoy mining CHIA on HiveOS! </h2>
+<h1>Enjoy mining and plotting CHIA on HiveOS! </h1>
 <h3>To support the project, you can send cryptocurrency:</h3>
 <h3><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" width="32"> 1FGwu22Tp7nnkUqLUn74exKpBy73qDYT5D</h3>
 <h3><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/9258.png" width="32"> xch1p7cjvm77xan47w8xd7z432z8h0aj45szdt6caml3sjwjzjn8646q857l5j</h3>
 <h3><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/825.png" width="32"> TNqKwGFtDYDHYYNfb2NBAqeyo6QFUzhL3W</h3>
 <h3>For any questions / bugs, write to me. My contacts:</h3>
 <h3>Telegram @cross964008, Email: 999cross999@gmail.com</h3>
+<h2>P.S.</h2>
+<p><b>This project was written by trial and error. HiveOS refused to answer my questions. Thanks HiveOS for the "support"! This gift for HiveOS:</b></p>
+<img src="https://github.com/999cross999/hiveos-hpool-chia/blob/main/pictures/for-hiveos.png">
