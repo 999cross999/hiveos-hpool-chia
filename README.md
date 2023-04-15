@@ -29,7 +29,6 @@
 <p><b>farmer_public_key: key </b><- Your Farmer Public Key must be 96 chars long(For OG&PP)</p>
 <p><b>pool_public_key: key </b><- Your Pool Public Key must be 96 chars long(For OG)</p>
 <p><b>pool_contract_address: key </b><- Your Pool Contract Address must be 62 chars long (For PP)</p>
-<p><b>pool_contract_address: key </b><- Your Pool Contract Address must be 62 chars long</p>
 <p><b>use_internal_ssd: enable </b><- Use SSD on which HiveOS is installed (Must be 360 GB!)</p>
 <p><b>external_ssd_name: SSD name </b><- External SSD Name (Default CHIASSD)</p>
 <p><b>max_temp_hdd: 60 </b><- Maximum HDD temperature (Protection is disabled by default)</p>
