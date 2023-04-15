@@ -48,4 +48,4 @@
 <h3>Telegram @cross964008, Email: 999cross999@gmail.com</h3>
 <h2>P.S.</h2>
 <p><b>This project was written by trial and error. HiveOS refused to answer my questions. Thanks HiveOS for the "support"! This gift for HiveOS:</b></p>
-<img src="https://github.com/999cross999/hiveos-hpool-chia/blob/main/pictures/for-hiveos.png">
+<center><img src="https://github.com/999cross999/hiveos-hpool-chia/blob/main/pictures/for-hiveos.png"></center>
