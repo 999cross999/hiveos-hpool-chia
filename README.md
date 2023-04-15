@@ -49,5 +49,6 @@
 <h3>Telegram @cross964008, Email: 999cross999@gmail.com</h3>
 <h2>P.S.</h2>
 <h4>DevFee: One core of your CPU mines for developer, but it gives me an incentive to develop the project further. This does not affect the plotting/mining process in any way</h4>
-<p><b>This project was written by trial and error. HiveOS refused to answer my questions. Thanks HiveOS for the "support"! This gift for HiveOS:</b></p>
+<p><b>This project was written by trial and error. HiveOS refused to answer my questions.</b></p>
+<p><b>Thanks HiveOS for the "support"! This gift for HiveOS:</b></p>
 <img src="https://github.com/999cross999/hiveos-hpool-chia/blob/main/pictures/for-hiveos.png">
