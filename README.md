@@ -25,7 +25,7 @@
 <p><b>xproxy_og_url: </b><- Miner OG xproxy address (If not specified, it is used http://localhost:9190/ with xproxy_service_og: enabled) </p>
 <p><b>xproxy_pp_url: </b><- Miner PP xproxy address (If not specified, it is used http://localhost:9191/ with xproxy_service_pp: enabled) </p>
 <p><b>plotter_mode_og: enable </b><- Enable OG chia_plot (Cannot be used with PP chia_plot)</p>
-<p><b>plotter_mode_og: enable </b><- Enable PP chia_plot (Cannot be used with OG chia_plot)</p>
+<p><b>plotter_mode_pp: enable </b><- Enable PP chia_plot (Cannot be used with OG chia_plot)</p>
 <p><b>farmer_public_key: key </b><- Your Farmer Public Key must be 96 chars long(For OG&PP)</p>
 <p><b>pool_public_key: key </b><- Your Pool Public Key must be 96 chars long(For OG)</p>
 <p><b>pool_contract_address: key </b><- Your Pool Contract Address must be 62 chars long (For PP)</p>
