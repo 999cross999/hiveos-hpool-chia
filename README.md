@@ -5,8 +5,8 @@
 <h3> My contacts: Telegram @cross964008, Email: 999cross999@gmail.com</h3>
 <p><b> MINER v2.0.0: </b>https://github.com/999cross999/hiveos-hpool-chia/releases/download/2.0.0/hiveos-hpool-chia-2.0.0-2.0.0_stable.tar.gz</p>
 <p><b>HDD must be NTFS file system and named CHIAOG*** or CHIAPP***!</b></p>
-<p><b>SSD for plotting must be named CHIASSD (if you didn't specify a custom name in the external_ssd_name argument)</b></p>
 <p><b>Instead of *** there should be a disk number, for example: CHIAOG001, CHIAOG002 or CHIAPP001, CHIAPP002</b></p>
+<p><b>SSD for plotting must be named CHIASSD (if you didn't specify a custom name in the external_ssd_name argument)</b></p>
 <p><b>Plotter + Miner requirements: HiveOS, 4 Cores, 16GB RAM, SSD/HDD ≥ 360 GB to create plots</b></p>
 <p><b>Miner Requirements: HiveOS, 2 Cores, 4GB RAM</b></h4>
 <h2>1. Copy your API key from hpool.in </h2>
