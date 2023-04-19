@@ -16,6 +16,9 @@
 <h2>3. Create a flight sheet like in this screenshot </h2>
 <img src="https://github.com/999cross999/hiveos-hpool-chia/blob/main/pictures/screenshot-4.png">
 <h2>4. In the Setup Miner Config menu, specify the settings as in the screenshot </h2>
+<h4>For OG or PP version you need to use api key and hpool server</h4>
+<h4>"Address line" example: APIKEYOG or APIKEYPP</h4>
+<h4>"pool URL" example: jp (for OG) or eu (for PP)</h4>
 <img src="https://github.com/999cross999/hiveos-hpool-chia/blob/main/pictures/screenshot-5.png">
 <p><b> MINER v2.0.0: </b>https://github.com/999cross999/hiveos-hpool-chia/releases/download/2.0.0/hiveos-hpool-chia-2.0.0-2.0.0_stable.tar.gz</p>
 <p><b>Use the arguments in "Extra config arguments":</b></p>
