@@ -1,6 +1,6 @@
 
 <h1><img class="icon" src="https://www.chia.net/wp-content/uploads/2023/01/chia-logo-dark.svg" width="120"> OG/PP HPOOL miner+plotter for HiveOS<img src="!https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ757CjA-Zt6ltQK4gp-Abbm3-j3-Mw3xQZkA&usqp=CAU" width="150"></h1>
-<img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/pictures/screenshot-plot-1.png" width="1200">
+<img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/pictures/screenshot-plot.png" width="1200">
 <h3>For any questions / bugs, write to me!</h3>
 <h3> My contacts: Telegram @cross964008, Email: 999cross999@gmail.com</h3>
 <p><b> MINER v2.0.1: </b>https://github.com/999cross999/hiveos-hpool-chia/releases/download/2.0.1/hiveos-hpool-chia-2.0.1-2.0.1_stable.tar.gz</p>
