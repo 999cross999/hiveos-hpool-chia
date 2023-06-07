@@ -3,7 +3,7 @@
 <img src="https://github.com/999cross999/hiveos-hpool-chia/raw/main/pictures/screenshot-plot.png" width="1200">
 <h3>For any questions / bugs, write to me!</h3>
 <h3> My contacts: Telegram @cross964008, Email: 999cross999@gmail.com</h3>
-<p><b> MINER v2.0.2: </b>https://github.com/999cross999/hiveos-hpool-chia/releases/download/2.0.2/hiveos-hpool-chia-2.0.2-2.0.2_stable.tar.gz</p>
+<p><b> MINER v2.0.3: </b>https://github.com/999cross999/hiveos-hpool-chia/releases/download/2.0.3/hiveos-hpool-chia-2.0.3-2.0.3_stable.tar.gz</p>
 <p><b>HDD must be NTFS file system and named CHIAOG*** or CHIAPP***!</b></p>
 <p><b>Instead of *** there should be a disk number, for example: CHIAOG001, CHIAOG002 or CHIAPP001, CHIAPP002</b></p>
 <p><b>SSD for plotting must be named CHIASSD (if you didn't specify a custom name in the external_ssd_name argument)</b></p>
@@ -18,9 +18,9 @@
 <h2>4. In the Setup Miner Config menu, specify the settings as in the screenshot </h2>
 <h4>For OG or PP version you need to use api key and hpool server</h4>
 <h4>"Address line" example: APIKEYOG or APIKEYPP</h4>
-<h4>"pool URL" example: jp (for OG) or eu (for PP)</h4>
+<h4>"pool URL" example: hk (for OG) or eu (for PP)</h4>
 <img src="https://github.com/999cross999/hiveos-hpool-chia/blob/main/pictures/screenshot-5.png">
-<p><b> MINER v2.0.2: </b>https://github.com/999cross999/hiveos-hpool-chia/releases/download/2.0.2/hiveos-hpool-chia-2.0.2-2.0.2_stable.tar.gz</p>
+<p><b> MINER v2.0.3: </b>https://github.com/999cross999/hiveos-hpool-chia/releases/download/2.0.3/hiveos-hpool-chia-2.0.3-2.0.3_stable.tar.gz</p>
 <p><b>Use the arguments in "Extra config arguments":</b></p>
 <p><b>miner_mode_og: enable </b><- Enable OG miner (allowed to be used in conjunction with PP miner)</p>
 <p><b>miner_mode_pp: enable </b><- Enable PP miner (allowed to be used in conjunction with OG miner)</p>
