@@ -3,7 +3,7 @@
 <img src="https://github.com/999cross999/hiveos-hpool-chia/blob/main/pictures/hiveos-hpool-chia-2.0.3.jpg" width="1200">
 <h3>For any questions / bugs, write to me!</h3>
 <h3> My contacts: Telegram @cross964008, Email: 999cross999@gmail.com</h3>
-<p><b> MINER v2.0.4: </b>https://github.com/999cross999/hiveos-hpool-chia/releases/download/2.0.4/hiveos-hpool-chia-2.0.4-2.0.4_stable.tar.gz</p>
+<p><b> MINER v2.0.5: </b>https://github.com/999cross999/hiveos-hpool-chia/releases/download/2.0.5/hiveos-hpool-chia-2.0.5-2.0.5_stable.tar.gz</p>
 <p><b>HDD must be NTFS file system and named CHIAOG*** or CHIAPP***!</b></p>
 <p><b>Instead of *** there should be a disk number, for example: CHIAOG001, CHIAOG002 or CHIAPP001, CHIAPP002</b></p>
 <p><b>SSD for plotting must be named CHIASSD (if you didn't specify a custom name in the external_ssd_name argument)</b></p>
@@ -20,7 +20,7 @@
 <h4>"Address line" example: APIKEYOG or APIKEYPP</h4>
 <h4>"pool URL" example: hk (for OG) or eu (for PP)</h4>
 <img src="https://github.com/999cross999/hiveos-hpool-chia/blob/main/pictures/screenshot-5.png">
-<p><b> MINER v2.0.4: </b>https://github.com/999cross999/hiveos-hpool-chia/releases/download/2.0.4/hiveos-hpool-chia-2.0.4-2.0.4_stable.tar.gz</p>
+<p><b> MINER v2.0.5: </b>https://github.com/999cross999/hiveos-hpool-chia/releases/download/2.0.5/hiveos-hpool-chia-2.0.5-2.0.5_stable.tar.gz</p>
 <p><b>Use the arguments in "Extra config arguments":</b></p>
 <p><b>miner_mode_og: enable </b><- Enable OG miner (allowed to be used in conjunction with PP miner)</p>
 <p><b>miner_mode_pp: enable </b><- Enable PP miner (allowed to be used in conjunction with OG miner)</p>
@@ -47,7 +47,7 @@
 <h3>To support the project, you can send cryptocurrency:</h3>
 <h3><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" width="32"> 1FGwu22Tp7nnkUqLUn74exKpBy73qDYT5D</h3>
 <h3><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/9258.png" width="32"> xch1p7cjvm77xan47w8xd7z432z8h0aj45szdt6caml3sjwjzjn8646q857l5j</h3>
-<h3><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/825.png" width="32"> TNqKwGFtDYDHYYNfb2NBAqeyo6QFUzhL3W</h3>
+<h3><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/825.png" width="32"> TUNZhAV8221ijJBeKZZEZsv4brvJeiGJKv</h3>
 <h3>For any questions / bugs, write to me. My contacts:</h3>
 <h3>Telegram @cross964008, Email: 999cross999@gmail.com</h3>
 <h2>P.S.</h2>
